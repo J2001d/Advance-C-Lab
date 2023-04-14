@@ -1,3 +1,11 @@
+/*
+Input Format:
+7
+
+Output Format:
+1
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
