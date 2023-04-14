@@ -1,4 +1,7 @@
 /*
+Input Format: Enter any integer n , For example 5
+
+Output:
 1
 12
 123
