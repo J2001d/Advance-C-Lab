@@ -1,3 +1,19 @@
+/*
+Input Format :
+
+5
+2 5 6
+3 5 4
+2 5 4
+
+Output Format:
+
+2 5 6
+3 5 4
+2 5 4
+
+
+*/
 #include<stdio.h>
 
 int main() {
