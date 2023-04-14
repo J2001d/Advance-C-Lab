@@ -1,5 +1,18 @@
 // Linear search
 
+
+/*
+
+Input Format : 
+5
+1 6 7 8 9
+6
+
+Output Format:
+
+Element Found!
+
+*/
 #include<stdio.h>
 #include<stdlib.h>
 int main() {
