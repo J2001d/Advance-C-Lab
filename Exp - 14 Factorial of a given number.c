@@ -1,3 +1,9 @@
+/*
+Input Format: Enter any integer n , For example 5
+Output:
+120
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 int main() {
