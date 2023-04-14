@@ -1,7 +1,6 @@
 /*
-Input Format: Enter any integer n , For example 5
-Output:
-120
+Input Format: Enter any integer n , For example 12345
+Output: 54321
 */
 
 
