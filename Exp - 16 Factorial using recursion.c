@@ -1,3 +1,10 @@
+/*
+Input Format:
+5
+Output Format:
+120
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
