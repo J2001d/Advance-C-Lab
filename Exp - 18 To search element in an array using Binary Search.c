@@ -1,3 +1,14 @@
+/*
+
+Input Format :
+5
+1 5 6 7 8 
+5
+
+Output Format :
+Element Found!
+*/
+
 // Binary search
 #include<stdio.h>
 #include<stdlib.h>
