@@ -1,11 +1,9 @@
 /*
 
-Input Format :
+Output: 
 5
-1 5 6 7 8 
-5
-
-Output Format :
+1 6 7 8 9
+6
 Element Found!
 */
 
