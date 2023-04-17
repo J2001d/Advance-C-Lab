@@ -1,3 +1,15 @@
+/*
+Output 
+
+Press 1 to add
+Press 2 to subtract
+Press 3 to exit
+1
+Enter Two numbers to add
+5 6
+Addition is : 11
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 int menu() {
