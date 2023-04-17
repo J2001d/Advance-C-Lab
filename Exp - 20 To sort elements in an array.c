@@ -1,10 +1,9 @@
 /*
-Input : 
+
+Output:
 
 5
 6 3 2 1 4
-
-Output:
 1 2 3 4 6
 
 
